@@ -10,4 +10,6 @@ int main()
     cout << "\n"
          << "number is" << a << "\n";
     cout << a;
+
+    hjhj
 }
